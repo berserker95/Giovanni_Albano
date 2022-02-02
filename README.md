@@ -40,4 +40,4 @@ I use both the logical and creative part of the brain. I like work as a front-en
 [![LINKEDIN](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2)](https://www.linkedin.com/in/giovanni-albano-14a2a0194/)
 [![INSTAGRAM](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=e4405f)](https://www.instagram.com/ber_serker95/)
 [![FACEBOOK](https://img.shields.io/badge/-Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=1877f2)](https://www.facebook.com/giovanni.albano.353/)
-[![SKYPE](https://img.shields.io/badge/-Skype-informational?style=for-the-badge&logo=skype&logoColor=white&color=00aff0)](live:giovanni.albano1995/)
+[![SKYPE](https://img.shields.io/badge/-Skype-informational?style=for-the-badge&logo=skype&logoColor=white&color=00aff0)](https://join.skype.com/invite/euMHLgUSepD6)
