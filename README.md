@@ -1,8 +1,5 @@
-<div align="center">
-  
-#  **Hi, I'm Giovanni <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">**
+ #  **Hi, I'm Giovanni <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">**
   :four_leaf_clover: I'm trying to make the world a better place. </br>
-</div>
 
 # **About me :bear:**
 I use both the logical and creative part of the brain. I like work as a front-end developer within a team. I stand for quality, innovation and building useful products with a focus on the human using the product. I am a proactive, confident and communicatively strong person always looking ahead in the future.
@@ -14,7 +11,8 @@ I use both the logical and creative part of the brain. I like work as a front-en
 :coffee: Coffee lover </br>
 
 
-# **Languages and tools** 🛠️
+
+# **Techologies and tools** 🛠️
 
 [![ANGULAR](https://img.shields.io/badge/-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=dd0031)](https://angular.io/docs)
 [![REACT](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=react&logoColor=white&color=00aced)](https://it.reactjs.org/docs/getting-started.html)
@@ -36,3 +34,10 @@ I use both the logical and creative part of the brain. I like work as a front-en
 [![GITHUB](https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/)
 [![ELECTRON](https://img.shields.io/badge/-Electron-informational?style=for-the-badge&logo=electron&logoColor=white&color=47848f)](https://www.electronjs.org/)
 [![WEBPACK](https://img.shields.io/badge/-Webpack-informational?style=for-the-badge&logo=webpack&logoColor=white&color=00aced)](https://webpack.js.org/)
+
+
+# **Reach me on** 📫
+[![LINKEDIN](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2)](https://www.linkedin.com/in/giovanni-albano-14a2a0194/)
+[![INSTAGRAM](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=e4405f)](https://www.instagram.com/ber_serker95/)
+[![FACEBOOK](https://img.shields.io/badge/-Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=1877f2)](https://www.facebook.com/giovanni.albano.353/)
+[![SKYPE](https://img.shields.io/badge/-Skype-informational?style=for-the-badge&logo=skype&logoColor=white&color=00aff0)](live:giovanni.albano1995/)
