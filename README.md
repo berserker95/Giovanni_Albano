@@ -12,7 +12,7 @@ I use both the logical and creative part of the brain. I like work as a front-en
 
 
 
-# **Techologies and tools** 🛠️
+# **Technologies and tools** 🛠️
 
 [![ANGULAR](https://img.shields.io/badge/-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=dd0031)](https://angular.io/docs)
 [![REACT](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=react&logoColor=white&color=00aced)](https://it.reactjs.org/docs/getting-started.html)
