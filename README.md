@@ -36,6 +36,12 @@ I use both the logical and creative part of the brain. I like work as a front-en
 [![WEBPACK](https://img.shields.io/badge/-Webpack-informational?style=for-the-badge&logo=webpack&logoColor=white&color=00aced)](https://webpack.js.org/)
 
 
+# **Projects** 🚀
+
+| Name | Category | Description | Links |
+| --- | :---: | --- | --- |
+| <a href="https://simple-angular-todo-list.vercel.app/"><b>Todo list</b></a> | [![](https://img.shields.io/badge/📝-%20App-informational?style=flat&logoColor=white&color=3498db)]() | 🖊️A simple todo list to organize your days | <table><tr><td>  [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/berserker95) </td><td> [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://simple-angular-todo-list.vercel.app/)  </td></tr></table>
+
 # **Reach me on** 📫
 [![LINKEDIN](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2)](https://www.linkedin.com/in/giovanni-albano-14a2a0194/)
 [![INSTAGRAM](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=e4405f)](https://www.instagram.com/ber_serker95/)
