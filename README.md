@@ -7,6 +7,7 @@ I use both the logical and creative part of the brain. I like work as a front-en
 
 :computer: Front-end developer </br>
 :book: Book lover  </br>
+:pencil: Columnist </br>
 :coffee: Coffee lover </br>
 :earth_americas: Wanderlust  </br>
 
