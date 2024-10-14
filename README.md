@@ -2,7 +2,7 @@
   :four_leaf_clover: I'm trying to make the world a better place. </br>
 
 # **About me :bear:**
-I use both the logical and creative part of the brain. I like work as a front-end developer within a team. I stand for quality, innovation and building useful products with a focus on the human using the product. I am a proactive, confident and communicatively strong person always looking ahead in the future.
+I use both the logical and creative parts of my brain. I enjoy working as a front-end developer within a team. I stand for quality, innovation, and building useful products with a focus on the human using the product. I am proactive, confident, and communicatively strong, always looking ahead to the future.
 
 
 :computer: Front-end developer </br>
@@ -27,6 +27,8 @@ I use both the logical and creative part of the brain. I like work as a front-en
 [![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=7952b3)](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 [![DEVEXPRESS](https://img.shields.io/badge/-Devexpress-informational?style=for-the-badge&logo=devexpress&logoColor=white&color=ff7200)](https://www.devexpress.com/)
 [![MATERIAL](https://img.shields.io/badge/-Material-informational?style=for-the-badge&logo=material-design&logoColor=white&color=757575)](https://material.io/design)
+[![PRIMENG](https://img.shields.io/badge/-PrimeNG-informational?style=for-the-badge&logo=prime-ng&logoColor=white&color=007ad9)](https://www.primefaces.org/primeng/showcase/#/)
+[![NEBULAR](https://img.shields.io/badge/-Nebular-informational?style=for-the-badge&logo=nebular&logoColor=white&color=00bcd4)](https://akveo.com/nebular/docs/guid/getting-started/overview)
 [![SASS](https://img.shields.io/badge/-Sass-informational?style=for-the-badge&logo=sass&logoColor=white&color=cc6699)](https://sass-lang.com/)
 [![VSCODE](https://img.shields.io/badge/-VS%20Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007acc)](https://code.visualstudio.com/)
 [![VS](https://img.shields.io/badge/-Visual%20Studio-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=5c2d91)](https://visualstudio.microsoft.com/it/)
